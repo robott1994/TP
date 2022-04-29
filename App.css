@@ -1,0 +1,29 @@
+body {
+  background-color: #908d95;
+
+
+}
+
+.not_found {
+  width: 100%;
+  min-height: 600px;
+  max-height: 80vh;
+  height: auto;
+  font-weight: bold;
+  font-size: 18px;
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  color: #fff
+}
+
+.carousel-caption {
+  bottom: 50%;
+  background: rgba(23,132,165,.75);
+  border-radius: 50px 50px 50px 50px;
+  border: 1px solid #000000
+}
+
+.style {
+  border: 1px solid #000000
+}
